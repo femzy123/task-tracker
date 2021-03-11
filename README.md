@@ -1,19 +1,27 @@
-# task-tracker
+# Task Tracker
+
+> This is a simple app that tracks your tasks. It was built using vue.
 
 ## Project setup
+
 ```
-npm install
+Clone the repo and run npm install
 ```
 
-### Compiles and hot-reloads for development
+## Run the JSON-Server backend (http://localhost:5000)
+
+```
+npm run backend
+```
+
+## Run the Vue dev server (http://localhost:8080)
+
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+## Compiles and minifies for production
+
 ```
 npm run build
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
